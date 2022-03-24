@@ -213,7 +213,7 @@
     SUBDIR += pejv-fpw
     SUBDIR += plain2
     SUBDIR += plan
-    SUBDIR += prn
+    SUBDIR += prn-ps
     SUBDIR += py-jaconv
     SUBDIR += qkc
     SUBDIR += qolibri
